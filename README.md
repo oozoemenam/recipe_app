@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 
-![screenshot](/assets/Screenshot_1.png)
-![screenshot](/assets/Screenshot_2.png)
+<img src="./assets/Screenshot_1.png" alt="screenshot" width="300"/>
+<img src="./assets/Screenshot_2.png" alt="screenshot" width="300"/>
